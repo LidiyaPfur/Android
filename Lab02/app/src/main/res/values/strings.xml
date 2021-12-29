@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="current_temperature_is">Текущая температура (%s) градусов</string>
+    <string name="temperature_is">Температура: %sC</string>
+</resources>
